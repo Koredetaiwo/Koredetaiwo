@@ -1,7 +1,7 @@
-Hi 👋 My name is Korede Taiwo
+Hi 👋 I am Taiwo Akorede
 =============================
 
-Python Developer
+Python Developer | Data Scientist
 ----------------
 
 * 🌍  I'm based in Lagos
