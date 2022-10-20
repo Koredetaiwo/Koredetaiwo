@@ -1,4 +1,4 @@
-Hi 👋 I am Taiwo Akorede
+Hi 👋 I am Taiwo Akorede.
 =============================
 
 Python Developer | Data Scientist
